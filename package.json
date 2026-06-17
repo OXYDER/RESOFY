@@ -1,14 +1,14 @@
 {
-  "name": "aonsoku",
+  "name": "RESOFY",
   "private": true,
   "version": "0.14.0",
-  "description": "A modern desktop client for Navidrome/Subsonic servers.",
+  "description": "RESOFY Web Music Player",
   "author": {
-    "name": "Victor Alves"
+    "name": "OXYDE"
   },
   "main": "./out/main/index.js",
   "type": "module",
-  "productName": "Aonsoku",
+  "productName": "RESOFY",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
