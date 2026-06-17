@@ -687,8 +687,8 @@
   },
   "toast": {
     "server": {
-      "success": "Serveur sauvegardé avec succès!",
-      "error": "La communication avec le serveur a échoué!"
+      "success": "Bonne écoute!",
+      "error": "Connexion impossible, vérifiez vos informations."
     }
   },
   "time": {
