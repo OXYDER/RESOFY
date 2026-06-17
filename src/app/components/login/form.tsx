@@ -118,19 +118,19 @@ export function LoginForm() {
         <Form {...form}>
           <form onSubmit={form.handleSubmit((data) => onSubmit(data))}>
 <CardHeader className="flex items-center">
-  <img
-    src="/icon.svg"
-    width={120}
-    height={120}
-    alt="RESOFY"
-    className="mb-2"
-  />
   <CardTitle className="flex flex-row justify-between items-center w-full">
     {t('login.form.server')}
     <div className="flex gap-2 items-center">
       <LangToggle />
     </div>
   </CardTitle>
+    <img
+    src="/icon.svg"
+    width={120}
+    height={120}
+    alt="RESOFY"
+    className="mb-2"
+  />
   <CardDescription>{t('login.form.description')}</CardDescription>
 </CardHeader>
 
