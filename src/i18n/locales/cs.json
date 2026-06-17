@@ -305,8 +305,8 @@
   },
   "toast": {
     "server": {
-      "success": "Server byl úspěšně uložen!",
-      "error": "Komunikace se serverem selhala!"
+      "success": "Užijte si poslech!",
+      "error": "Připojení se nezdařilo, zkontrolujte prosím své informace."
     }
   },
   "time": {
