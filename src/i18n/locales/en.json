@@ -401,8 +401,8 @@
   },
   "toast": {
     "server": {
-      "success": "Server was saved successfully!",
-      "error": "Server communication failed!"
+      "success": "Enjoy listening!",
+      "error": "Connection failed, please check your information."
     }
   },
   "command": {
