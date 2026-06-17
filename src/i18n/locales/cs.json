@@ -166,9 +166,9 @@
       "connecting": "Připojuji…",
       "usernamePlaceholder": "Tvé uživatelské jméno",
       "password": "Heslo",
-      "server": "Server",
+      "server": "Přihlášení",
       "username": "Uživatelské jméno",
-      "description": "Připoj se ke svému Subsonic serveru.",
+      "description": "Zadejte své přihlašovací údaje.",
       "url": "URL",
       "urlDescription": "Toto je URL tvého serveru"
     }
