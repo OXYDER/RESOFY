@@ -329,8 +329,8 @@
   },
   "toast": {
     "server": {
-      "error": "La communication avec le serveur a échoué !",
-      "success": "Serveur sauvegardé avec succès !"
+      "error": "Connexion impossible, vérifiez vos informations.",
+      "success": "Bonne écoute!"
     }
   },
   "player": {
