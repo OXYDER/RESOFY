@@ -317,8 +317,8 @@
   },
   "toast": {
     "server": {
-      "success": "¡El servidor se ha guardado con éxito!",
-      "error": "¡Error de comunicación con el servidor!"
+      "success": "¡Disfruta escuchando!",
+      "error": "Falló la conexión. Por favor, compruebe su información."
     }
   },
   "command": {
