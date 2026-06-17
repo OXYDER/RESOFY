@@ -285,7 +285,7 @@
       "username": "Nom d'utilisateur",
       "usernamePlaceholder": "Votre nom d'utilisateur",
       "urlDescription": "Ceci est l'URL de votre serveur",
-      "server": "Serveur",
+      "server": "Connexion",
       "url": "URL",
       "connect": "Connexion",
       "password": "Mot de passe",
@@ -298,7 +298,7 @@
         "password": "Renseignez un mot de passe",
         "passwordLength": "Le mot de passe doit comporter au moins 2 caractères."
       },
-      "description": "Connexion à votre serveur Subsonic."
+      "description": "Entrez vos identifiants"
     }
   },
   "fullscreen": {
