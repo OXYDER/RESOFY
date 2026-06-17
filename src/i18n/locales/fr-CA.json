@@ -319,7 +319,7 @@
     "privacy": {
       "services": {
         "group": "Services externes",
-        "description": "Gérer les services externes auxquels Aonsoku peut accéder.",
+        "description": "Gérer les services externes auxquels RESOFY peut accéder.",
         "lrclib": {
           "info": "LRCLIB est utilisé pour trouver les paroles.",
           "label": "LRCLIB"
@@ -338,7 +338,7 @@
           "url": "URL du serveur"
         },
         "group": "Balados",
-        "description": "Activer l'intégration avec le service de balados Aonsoku.",
+        "description": "Activer l'intégration avec le service de balados RESOFY.",
         "service": {
           "url": "URL du service de balados"
         }

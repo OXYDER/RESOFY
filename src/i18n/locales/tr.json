@@ -664,7 +664,7 @@
     "privacy": {
       "services": {
         "group": "Harici Hizmetler",
-        "description": "Aonsoku'nun erişebileceği harici hizmetleri yönetin.",
+        "description": "RESOFY'nun erişebileceği harici hizmetleri yönetin.",
         "lrclib": {
           "info": "LRCLIB şarkı sözlerini bulmak için kullanılır.",
           "label": "LRCLIB"
@@ -678,7 +678,7 @@
       },
       "podcast": {
         "group": "Podcast'ler",
-        "description": "Aonsoku Podcast servisi ile entegrasyonu etkinleştirin.",
+        "description": "RESOFY Podcast servisi ile entegrasyonu etkinleştirin.",
         "enabled": {
           "label": "Entegrasyonu Etkinleştir"
         },

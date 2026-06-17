@@ -351,7 +351,7 @@
     "privacy": {
       "services": {
         "group": "외부 서비스",
-        "description": "Aonsoku가 접근할 수 있는 외부 서비스를 관리합니다.",
+        "description": "RESOFY가 접근할 수 있는 외부 서비스를 관리합니다.",
         "lrclib": {
           "info": "LRCLIB은 가사 검색에 사용됩니다.",
           "label": "LRCLIB"
@@ -374,7 +374,7 @@
           "user": "사용자명",
           "url": "서버 주소"
         },
-        "description": "Aonsoku 팟캐스트 서비스와의 통합을 활성화합니다.",
+        "description": "RESOFY 팟캐스트 서비스와의 통합을 활성화합니다.",
         "service": {
           "url": "팟캐스트 서비스 주소"
         }

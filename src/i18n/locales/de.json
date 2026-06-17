@@ -604,7 +604,7 @@
     "privacy": {
       "services": {
         "group": "Externe Dienste",
-        "description": "Legt fest welche Dienste Aonsoku verwenden kann",
+        "description": "Legt fest welche Dienste RESOFY verwenden kann",
         "lrclib": {
           "info": "LRCLIB wird für Liedtexte verwendet.",
           "label": "LRCLIB",
@@ -650,7 +650,7 @@
         "description": "Abschnitte in der Seitenleiste ein- oder ausblenden."
       },
       "podcast": {
-        "description": "Aktivieren Sie die Integration mit dem Aonsoku Podcasts-Dienst.",
+        "description": "Aktivieren Sie die Integration mit dem RESOFY Podcasts-Dienst.",
         "enabled": {
           "label": "Integration aktivieren"
         },

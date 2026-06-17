@@ -1,5 +1,5 @@
-appId: com.victoralvesf.aonsoku
-productName: Aonsoku
+appId: com.OXYDE.RESOFY
+productName: RESOFY
 copyright: Copyright © 2026 Victor Alves
 icon: ./build/icon.ico
 artifactName: '${productName}-v${version}-${os}-${arch}.${ext}'
@@ -18,7 +18,7 @@ extraResources:
     to: resources
 
 win:
-  executableName: Aonsoku
+  executableName: RESOFY
   target:
     - target: nsis
       arch:
@@ -67,4 +67,4 @@ nativeRebuilder: legacy
 publish:
   provider: github
   owner: victoralvesf
-  repo: aonsoku
+  repo: RESOFY

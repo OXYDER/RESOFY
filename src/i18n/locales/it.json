@@ -689,7 +689,7 @@
     "privacy": {
       "services": {
         "group": "Servizi esterni",
-        "description": "Gestisci i servizi esterni a cui Aonsoku può accedere.",
+        "description": "Gestisci i servizi esterni a cui RESOFY può accedere.",
         "lrclib": {
           "info": "LRCLIB viene utilizzato per trovare i testi delle canzoni.",
           "label": "LRCLIB",
@@ -708,7 +708,7 @@
         "description": "Mostra o nascondi le sezioni nella barra laterale."
       },
       "podcast": {
-        "description": "Abilita integrazione con il servizio podcast Aonsoku.",
+        "description": "Abilita integrazione con il servizio podcast RESOFY.",
         "enabled": {
           "label": "Abilita integrazione"
         },

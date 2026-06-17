@@ -598,7 +598,7 @@
         "description": "在侧边栏中显示或隐藏各个部分。"
       },
       "podcast": {
-        "description": "开启与 Aonsoku Podcasts 服务的集成。",
+        "description": "开启与 RESOFY Podcasts 服务的集成。",
         "group": "播客",
         "credentials": {
           "url": "服务器 URL",
@@ -636,7 +636,7 @@
             "example": "示例：https://my-lrclib.com"
           }
         },
-        "description": "管理 Aonsoku 可以访问的外部服务。",
+        "description": "管理 RESOFY 可以访问的外部服务。",
         "animatedCover": {
           "enabled": {
             "label": "启用动画封面",

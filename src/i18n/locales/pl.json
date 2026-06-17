@@ -664,7 +664,7 @@
           "url": "Adres URL Serwera",
           "error": "Wymagane są Nazwa użytkownika i Adres URL Serwera."
         },
-        "description": "Włącz integrację z usługą Podcastową Aonsoku.",
+        "description": "Włącz integrację z usługą Podcastową RESOFY.",
         "group": "Podcasty",
         "enabled": {
           "label": "Włącz Integrację"
@@ -714,7 +714,7 @@
             "example": "Przykład: https://my-lrclib.com"
           }
         },
-        "description": "Zarządzaj usługami zewnętrznymi do których Aonsoku może uzyskać dostęp.",
+        "description": "Zarządzaj usługami zewnętrznymi do których RESOFY może uzyskać dostęp.",
         "animatedCover": {
           "enabled": {
             "label": "Włącz animowane okładki",

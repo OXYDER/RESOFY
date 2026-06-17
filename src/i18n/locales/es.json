@@ -695,7 +695,7 @@
           "error": "Se requiere el Nombre de Usuario y la URL del Servidor.",
           "label": "Usa un Usuario con Sesión Iniciada y la URL del Servidor"
         },
-        "description": "Activar integracion con el servicio Aonsoku Podcasts.",
+        "description": "Activar integracion con el servicio RESOFY Podcasts.",
         "enabled": {
           "label": "Activar integración"
         },
@@ -716,7 +716,7 @@
           "info": "LRCLIB es usado para encontrar letras de canciones.",
           "label": "LRCLIB"
         },
-        "description": "Organiza los servicios externos a los que Aonsoku puede acceder."
+        "description": "Organiza los servicios externos a los que RESOFY puede acceder."
       }
     },
     "label": "Configuración"

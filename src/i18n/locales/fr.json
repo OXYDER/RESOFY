@@ -418,7 +418,7 @@
     "content": {
       "podcast": {
         "group": "Podcasts",
-        "description": "Activer l'intégration avec le service Aonsoku Podcasts.",
+        "description": "Activer l'intégration avec le service RESOFY Podcasts.",
         "credentials": {
           "label": "Utiliser l'URL de l'utilisateur connecté et du serveur",
           "url": "URL du serveur",
@@ -498,7 +498,7 @@
             "example": "Exemple : https://my-lrclib.com"
           }
         },
-        "description": "Gérer les services externes auxquels Aonsoku peut accéder.",
+        "description": "Gérer les services externes auxquels RESOFY peut accéder.",
         "animatedCover": {
           "enabled": {
             "label": "Activer les pochettes d'album animées",
