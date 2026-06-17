@@ -378,8 +378,8 @@
   },
   "toast": {
     "server": {
-      "success": "Server wurde erfolgreich gespeichert!",
-      "error": "Serverkommunikation fehlgeschlagen!"
+      "success": "Viel Spaß beim Hören!",
+      "error": "Verbindung fehlgeschlagen, bitte überprüfen Sie Ihre Angaben."
     }
   },
   "command": {
