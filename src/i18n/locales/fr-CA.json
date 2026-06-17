@@ -159,8 +159,8 @@
         "password": "Renseignez un mot de passe",
         "passwordLength": "Le mot de passe doit comporter au moins 2 caractères."
       },
-      "server": "Serveur",
-      "description": "Connexion à votre serveur Subsonic.",
+      "server": "Connexion",
+      "description": "Entrez vos identifiants.",
       "url": "URL",
       "urlDescription": "Ceci est l'URL de votre serveur",
       "username": "Nom d'utilisateur",
